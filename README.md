@@ -35,3 +35,5 @@ Pour ouvrir un site dans une nouvelle fenêtre avec bordures colorées, faites c
 - Clickez sur "Chargez l'extension non empaquetée"
 - Choisissez le bon dossier
 - ENJOY ! (il n'y a pas d'équivalent français à ce mot si parfait <3)
+
+![screenshot](screenshot.png "Screenshot")
