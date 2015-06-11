@@ -10,6 +10,7 @@ To open a website in a new Window with a colored header, you must do this :
 - Change the URL in webview.html
 - Change the color and size in main.js
 - Add a custom icon named 128.png in the extension's folder (must be 128*128 pixels)
+- Change the app's name in manifest.json
 - Go to chrome://extensions/
 - Tick "Developer mode"
 - Click "Load unpacked extension"
@@ -28,6 +29,7 @@ Pour ouvrir un site dans une nouvelle fenêtre avec bordures colorées, faites c
 - Changez l'URL dans webview.html
 - Changez la couleur et la taille dans main.js
 - Ajoutez une icône personnalisée nommée 128.png dans le dossier de l'extension (elle doit faire 128*128 pixels)
+- Changez le nom de l'application dans manifest.json
 - Allez sur chrome://extensions/
 - Cochez "Mode développeur"
 - Clickez sur "Chargez l'extension non empaquetée"
