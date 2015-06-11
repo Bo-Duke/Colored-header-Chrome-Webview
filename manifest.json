@@ -1,9 +1,9 @@
 {
-	"name":"Chrome webview", // Change the app's name here
+	"name":"Chrome webview",
 	"version":"0.1",
 	"manifest_version":2,
 	"icons": {
-		"128": "128.png" // There must be a 128x128px icon named 128.png in the extensions folder
+		"128": "128.png"
 	},
 	"app": {
 			"background": {
