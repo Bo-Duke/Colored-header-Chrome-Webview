@@ -1,7 +1,5 @@
 #Colored header Chrome Webview
 
-**Can't open external links inside the window, working on this**
-
 Since a few Chrome versions, you can have colored frames / headers on Chrome Apps, like on Chrome OS' files.app!
 
 However, it's not (yet?) possible to do this with hosted apps, that's why I created this small bit of code.
@@ -20,8 +18,6 @@ To open a website in a new Window with a colored header, you must do this :
 - ENJOY !
 
 -----------------------------
-
-**On ne peut actuellement pas ouvrir de liens externes depuis la fenêtre, mise à jour imminente**
 
 Depuis quelques versions de Chrome, on peut avoir des bordures de fenêtres colorés sur les applications Chrome, comme dans sur le navigateur de fichier de Chrome OS !
 
