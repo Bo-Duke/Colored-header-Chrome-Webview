@@ -1,4 +1,6 @@
-#Colored header Chrome Webview
+# Colored header Chrome Webview
+
+## This repository is deprecated, I didn't update it in years and there's too much issues to solve, since I don't use Chrome OS as often as before, it won't be fixed.
 
 Since a few Chrome versions, you can have colored frames / headers on Chrome Apps, like on Chrome OS' files.app!
 
@@ -34,6 +36,6 @@ Pour ouvrir un site dans une nouvelle fenêtre avec bordures colorées, faites c
 - Cochez "Mode développeur"
 - Clickez sur "Chargez l'extension non empaquetée"
 - Choisissez le bon dossier
-- ENJOY ! (il n'y a pas d'équivalent français à ce mot si parfait <3)
+- ENJOY !
 
 ![screenshot](screenshot.png "Screenshot")
